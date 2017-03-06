@@ -1,0 +1,2 @@
+# CssSimpleOptimizer
+Simple css optimizer
